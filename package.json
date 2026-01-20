@@ -16,5 +16,8 @@
     "url": "https://github.com/Nadezzzhda/hexlet-js/issues"
   },
   "homepage": "https://github.com/Nadezzzhda/hexlet-js#readme",
-  "description": "hexlet study js"
+  "description": "hexlet study js",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
